@@ -1,1 +1,82 @@
-/home/jukisu/.config/Code - OSS/User/settings.json
+{
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+      {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+      },
+      {
+        "before": [";",";"],
+        "after": ["<Esc>","A",";","<Esc>"]
+      }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+      {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+      },
+      {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+      },
+      {
+          "before": ["J"],
+          "after": ["5","j"]
+      },
+      {
+          "before": ["K"],
+          "after": ["5","k"]
+      },
+      {
+          "before": ["L"],
+          "after": ["$"]
+      },
+      {
+          "before": ["H"],
+          "after": ["^"]
+      },
+      {
+          "before": ["<C-l>"],
+          "after": ["e"]
+      },
+      {
+          "before": ["<C-h>"],
+          "after": ["b"]
+      },
+    ],
+  "vim.visualModeKeyBindings": [
+      {
+          "before": ["J"],
+          "after": ["5","j"]
+      },
+      {
+          "before": ["K"],
+          "after": ["5","k"]
+      },
+      {
+          "before": ["L"],
+          "after": ["$"]
+      },
+      {
+          "before": ["H"],
+          "after": ["^"]
+      }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+      "<C-a>": false,
+      "<C-f>": false
+},
+"editor.accessibilityPageSize": 12,
+"editor.fontSize": 16,
+"workbench.iconTheme": "material-icon-theme",
+"workbench.colorTheme": "Dracula",
+"editor.formatOnPaste": false,
+"editor.formatOnSave": false,
+"editor.formatOnType": false,
+"window.zoomLevel": 0
+}

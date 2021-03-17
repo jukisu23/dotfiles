@@ -1,0 +1,257 @@
+15:53:11.746: CPU Name: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+15:53:11.746: CPU Speed: 3572.053MHz
+15:53:11.747: Physical Cores: 4, Logical Cores: 8
+15:53:11.747: Physical Memory: 15893MB Total, 5921MB Free
+15:53:11.747: Kernel Version: Linux 5.4.85-1-MANJARO
+15:53:11.747: Distribution: "Manjaro Linux" Unknown
+15:53:11.747: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.10
+15:53:11.749: Portable mode: false
+15:53:11.829: OBS 26.0.2-3 (linux)
+15:53:11.829: ---------------------------------
+15:53:11.874: ---------------------------------
+15:53:11.874: audio settings reset:
+15:53:11.874: 	samples per sec: 48000
+15:53:11.874: 	speakers:        2
+15:53:11.878: ---------------------------------
+15:53:11.878: Initializing OpenGL...
+15:53:11.992: Loading up OpenGL on adapter NVIDIA Corporation GeForce GTX 970/PCIe/SSE2
+15:53:11.992: OpenGL loaded successfully, version 3.3.0 NVIDIA 455.45.01, shading language 3.30 NVIDIA via Cg compiler
+15:53:12.007: ---------------------------------
+15:53:12.007: video settings reset:
+15:53:12.007: 	base resolution:   1920x1080
+15:53:12.007: 	output resolution: 1920x1080
+15:53:12.007: 	downscale filter:  Bicubic
+15:53:12.007: 	fps:               30/1
+15:53:12.007: 	format:            NV12
+15:53:12.007: 	YUV mode:          709/Partial
+15:53:12.007: NV12 texture support not available
+15:53:12.056: Audio monitoring device:
+15:53:12.056: 	name: Standard
+15:53:12.056: 	id: default
+15:53:12.056: ---------------------------------
+15:53:12.060: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+15:53:12.062: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: Kann die Shared-Object-Datei nicht öffnen: Datei oder Verzeichnis nicht gefunden
+15:53:12.062: 
+15:53:12.062: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+15:53:12.073: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+15:53:12.073: No blackmagic support
+15:53:12.089: NVENC supported
+15:53:12.089: FFMPEG VAAPI supported
+15:53:12.119: VLC found, VLC video source enabled
+15:53:12.119: ---------------------------------
+15:53:12.119:   Loaded Modules:
+15:53:12.119:     vlc-video.so
+15:53:12.119:     v4l2sink.so
+15:53:12.119:     text-freetype2.so
+15:53:12.119:     rtmp-services.so
+15:53:12.119:     obs-x264.so
+15:53:12.119:     obs-transitions.so
+15:53:12.119:     obs-outputs.so
+15:53:12.119:     obs-libfdk.so
+15:53:12.119:     obs-filters.so
+15:53:12.119:     obs-ffmpeg.so
+15:53:12.119:     linux-v4l2.so
+15:53:12.119:     linux-pulseaudio.so
+15:53:12.119:     linux-jack.so
+15:53:12.119:     linux-decklink.so
+15:53:12.119:     linux-capture.so
+15:53:12.119:     linux-alsa.so
+15:53:12.119:     image-source.so
+15:53:12.119:     decklink-ouput-ui.so
+15:53:12.119: ---------------------------------
+15:53:12.119: ==== Startup complete ===============================================
+15:53:12.128: All scene data cleared
+15:53:12.128: ------------------------------------------------
+15:53:12.144: pulse-input: Server name: 'pulseaudio 14.0'
+15:53:12.144: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+15:53:12.144: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+15:53:12.144: [Loaded global audio device]: 'Desktop‐Audio'
+15:53:12.145: pulse-input: Server name: 'pulseaudio 14.0'
+15:53:12.145: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+15:53:12.145: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+15:53:12.145: [Loaded global audio device]: 'Mikrofon/AUX‐Audio'
+15:53:12.146: [Media Source 'sophia']: settings:
+15:53:12.146: 	input:                   /run/media/jukisu/Data/VIDEO/ja.mp4
+15:53:12.146: 	input_format:            (null)
+15:53:12.146: 	speed:                   100
+15:53:12.146: 	is_looping:              yes
+15:53:12.146: 	is_hw_decoding:          no
+15:53:12.146: 	is_clear_on_media_end:   yes
+15:53:12.146: 	restart_on_activate:     yes
+15:53:12.146: 	close_when_inactive:     no
+15:53:12.146: pulse-input: Server name: 'pulseaudio 14.0'
+15:53:12.147: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+15:53:12.147: pulse-input: Started recording from 'alsa_output.usb-GeneralPlus_USB_Audio_Device-00.analog-stereo.monitor'
+15:53:12.234: xcompcap: [window-capture: 'Fensteraufnahme (Xcomposite)'] update settings:
+15:53:12.234: 	title: Plausch - Discord
+15:53:12.234: 	class: discord
+15:53:12.234: 	Bit depth: 24
+15:53:12.234: 	Found proper GLXFBConfig (in 9): yes
+15:53:12.234: 
+15:53:12.355: [Media Source 'Medienquelle 2']: settings:
+15:53:12.355: 	input:                   /run/media/jukisu/Daten2/SCREENCASTS/2021-01-06 13-04-40.mkv
+15:53:12.355: 	input_format:            (null)
+15:53:12.355: 	speed:                   100
+15:53:12.355: 	is_looping:              yes
+15:53:12.355: 	is_hw_decoding:          no
+15:53:12.355: 	is_clear_on_media_end:   yes
+15:53:12.355: 	restart_on_activate:     yes
+15:53:12.355: 	close_when_inactive:     no
+15:53:12.379: xshm-input: Geometry 1920x1080 @ 1680,0
+15:53:12.657: v4l2-input: Start capture from /dev/video0
+15:53:12.664: v4l2-input: Unable to set input 0
+15:53:12.664: v4l2-input: Initialization failed
+15:53:13.185: v4l2-input: Start capture from /dev/video3
+15:53:13.185: v4l2-input: Unable to open device
+15:53:13.185: v4l2-input: Initialization failed
+15:53:13.393: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop‐Audio)
+15:53:13.393: 
+15:53:13.607: [Media Source 'vuong drehend']: settings:
+15:53:13.607: 	input:                   /run/media/jukisu/Daten2/SCREENCASTS/2021-01-06 13-10-20.mkv
+15:53:13.607: 	input_format:            (null)
+15:53:13.607: 	speed:                   59
+15:53:13.607: 	is_looping:              yes
+15:53:13.607: 	is_hw_decoding:          no
+15:53:13.607: 	is_clear_on_media_end:   yes
+15:53:13.607: 	restart_on_activate:     yes
+15:53:13.607: 	close_when_inactive:     no
+15:53:14.206: xshm-input: Geometry 1680x1050 @ 3600,0
+15:53:14.216: Switched to scene 'monitor 2'
+15:53:14.216: ------------------------------------------------
+15:53:14.216: Loaded scenes:
+15:53:14.216: - scene 'Bildschirm':
+15:53:14.216:     - source: 'screen' (xshm_input)
+15:53:14.216:     - source: 'cam' (v4l2_input)
+15:53:14.216:         - filter: 'Farbkorrektur' (color_filter)
+15:53:14.216:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.216:         - filter: 'Bildmaske/‐vermischung' (mask_filter)
+15:53:14.216:         - filter: 'LUT anwenden' (clut_filter)
+15:53:14.216:         - filter: 'Color Key' (color_key_filter)
+15:53:14.216:         - filter: 'Farbkorrektur 2' (color_filter)
+15:53:14.216:         - filter: 'Bewegung' (scroll_filter)
+15:53:14.216:         - filter: 'Schärfung' (sharpness_filter)
+15:53:14.216:     - source: 'Bild 4' (image_source)
+15:53:14.216:         - filter: 'Color Key' (color_key_filter)
+15:53:14.216:         - filter: 'Chroma Key' (chroma_key_filter)
+15:53:14.216:     - source: 'vuong drehend' (ffmpeg_source)
+15:53:14.216:         - filter: 'Color Key' (color_key_filter)
+15:53:14.216:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.216:     - source: 'mikrowelle' (image_source)
+15:53:14.216:         - filter: 'Color Key' (color_key_filter)
+15:53:14.216:         - filter: 'Chroma Key' (chroma_key_filter)
+15:53:14.216:     - source: 'cam 2' (v4l2_input)
+15:53:14.216:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.216:         - filter: 'Farbkorrektur' (color_filter)
+15:53:14.216:     - source: 'donation link' (text_ft2_source_v2)
+15:53:14.216:         - filter: 'Bewegung' (scroll_filter)
+15:53:14.216:     - source: 'F' (image_source)
+15:53:14.216:     - source: 'Audioausgabeaufnahme (PulseAudio)' (pulse_output_capture)
+15:53:14.216: - scene 'Cam2':
+15:53:14.216:     - source: 'cam' (v4l2_input)
+15:53:14.216:         - filter: 'Farbkorrektur' (color_filter)
+15:53:14.217:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.217:         - filter: 'Bildmaske/‐vermischung' (mask_filter)
+15:53:14.217:         - filter: 'LUT anwenden' (clut_filter)
+15:53:14.217:         - filter: 'Color Key' (color_key_filter)
+15:53:14.217:         - filter: 'Farbkorrektur 2' (color_filter)
+15:53:14.217:         - filter: 'Bewegung' (scroll_filter)
+15:53:14.217:         - filter: 'Schärfung' (sharpness_filter)
+15:53:14.217: - scene 'Cam2 2':
+15:53:14.217:     - source: 'cam' (v4l2_input)
+15:53:14.217:         - filter: 'Farbkorrektur' (color_filter)
+15:53:14.217:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.217:         - filter: 'Bildmaske/‐vermischung' (mask_filter)
+15:53:14.217:         - filter: 'LUT anwenden' (clut_filter)
+15:53:14.217:         - filter: 'Color Key' (color_key_filter)
+15:53:14.217:         - filter: 'Farbkorrektur 2' (color_filter)
+15:53:14.217:         - filter: 'Bewegung' (scroll_filter)
+15:53:14.217:         - filter: 'Schärfung' (sharpness_filter)
+15:53:14.217:     - source: 'Text (FreeType 2)' (text_ft2_source_v2)
+15:53:14.217:     - source: 'Bild 3' (image_source)
+15:53:14.217:     - source: 'screen' (xshm_input)
+15:53:14.217: - scene 'screen zoom':
+15:53:14.217:     - source: 'screen' (xshm_input)
+15:53:14.217: - scene 'cam normal':
+15:53:14.217:     - source: 'cam' (v4l2_input)
+15:53:14.217:         - filter: 'Farbkorrektur' (color_filter)
+15:53:14.217:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.217:         - filter: 'Bildmaske/‐vermischung' (mask_filter)
+15:53:14.217:         - filter: 'LUT anwenden' (clut_filter)
+15:53:14.217:         - filter: 'Color Key' (color_key_filter)
+15:53:14.217:         - filter: 'Farbkorrektur 2' (color_filter)
+15:53:14.217:         - filter: 'Bewegung' (scroll_filter)
+15:53:14.217:         - filter: 'Schärfung' (sharpness_filter)
+15:53:14.217:     - source: 'cam 2' (v4l2_input)
+15:53:14.217:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.217:         - filter: 'Farbkorrektur' (color_filter)
+15:53:14.217:     - source: 'F 2' (image_source)
+15:53:14.217:     - source: 'sad' (image_source)
+15:53:14.217:         - filter: 'Color Key' (color_key_filter)
+15:53:14.217:         - filter: 'Color Key 2' (color_key_filter)
+15:53:14.217:     - source: 'tear' (image_source)
+15:53:14.217:         - filter: 'Color Key' (color_key_filter)
+15:53:14.217:     - source: 'Bild 4 2' (image_source)
+15:53:14.217:         - filter: 'Color Key' (color_key_filter)
+15:53:14.217:         - filter: 'Chroma Key' (chroma_key_filter)
+15:53:14.217: - scene 'Szene 2':
+15:53:14.217:     - source: 'cam 2' (v4l2_input)
+15:53:14.217:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.217:         - filter: 'Farbkorrektur' (color_filter)
+15:53:14.217:     - source: 'Medienquelle 2' (ffmpeg_source)
+15:53:14.217: - scene 'vuong':
+15:53:14.217:     - source: 'Fensteraufnahme (Xcomposite)' (xcomposite_input)
+15:53:14.217: - scene 'monitor 2':
+15:53:14.217:     - source: 'screen2' (xshm_input)
+15:53:14.217: - scene 'Mikrowellen vuong':
+15:53:14.217:     - source: 'vuong drehend' (ffmpeg_source)
+15:53:14.217:         - filter: 'Color Key' (color_key_filter)
+15:53:14.217:         - filter: 'Zuschneiden/Pad' (crop_filter)
+15:53:14.217:     - source: 'Bild 4' (image_source)
+15:53:14.217:         - filter: 'Color Key' (color_key_filter)
+15:53:14.217:         - filter: 'Chroma Key' (chroma_key_filter)
+15:53:14.217: - scene 'reingeschaut':
+15:53:14.217:     - source: 'Bild' (image_source)
+15:53:14.217: - scene 'Livecam':
+15:53:14.217:     - source: 'VLC‐Videoquelle' (vlc_source)
+15:53:14.217:         - filter: 'Farbkorrektur' (color_filter)
+15:53:14.217: - scene 'bild':
+15:53:14.217:     - source: 'Bild 2' (image_source)
+15:53:14.217: - scene 'so4':
+15:53:14.217:     - source: 'sophia' (ffmpeg_source)
+15:53:14.217: - scene 'freeze':
+15:53:14.217:     - source: 'freeze1' (image_source)
+15:53:14.217: ------------------------------------------------
+15:53:43.049: User switched to scene 'Mikrowellen vuong'
+15:53:47.402: User switched to scene 'cam normal'
+15:53:49.532: v4l2-input: /dev/video1 seems to not support video capture
+15:53:49.533: v4l2-input: Found device 'Dummy video device (0x0000)' at /dev/video2
+15:53:49.533: v4l2-input: Found device 'UVC Camera (046d:0825)' at /dev/video0
+15:53:49.534: v4l2-input: Found input 'Camera 1' (Index 0)
+15:53:49.534: v4l2-controls: setting default for Power Line Frequency to 2
+15:53:49.536: v4l2-controls: setting default for Exposure, Auto to 3
+15:53:49.539: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+15:53:49.539: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+15:53:49.539: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+15:53:49.539: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+15:53:49.539: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+15:53:49.539: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+15:53:49.542: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+15:53:49.542: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+15:53:49.542: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+15:53:49.542: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+15:53:49.542: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+15:53:49.542: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+15:54:00.548: ==== Shutting down ==================================================
+15:54:00.568: pulse-input: Stopped recording from 'alsa_output.usb-GeneralPlus_USB_Audio_Device-00.analog-stereo.monitor'
+15:54:00.568: pulse-input: Got 17421 packets with 2135124 frames
+15:54:00.572: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:54:00.656: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+15:54:00.656: pulse-input: Got 5049 packets with 2109003 frames
+15:54:00.657: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+15:54:00.657: pulse-input: Got 4885 packets with 2139328 frames
+15:54:00.657: All scene data cleared
+15:54:00.657: ------------------------------------------------
+15:54:00.703: X Error: GLXBadDrawable, Major opcode: 152, Minor opcode: 26, Serial: 23944
+15:54:00.703: Failed to make context current.
+15:54:00.704: X Error: GLXBadDrawable, Major opcode: 152, Minor opcode: 26, Serial: 23946
+15:54:00.704: Failed to make context current.
